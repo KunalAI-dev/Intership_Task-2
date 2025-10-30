@@ -1,0 +1,14 @@
+[
+    {
+        "book_id": "B101",
+        "title": "Python Basics",
+        "author": "John Doe",
+        "issued": false
+    },
+    {
+        "book_id": "B102",
+        "title": "Data Science with Python",
+        "author": "Jane Smith",
+        "issued": true
+    }
+]
